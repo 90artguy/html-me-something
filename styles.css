@@ -58,6 +58,9 @@ footer p {
 	display: inline-block;
 }
 
+#title {
+    font-style: italic
+}
 img {
 	width: 100%;
     max-width: 100%;
@@ -67,6 +70,11 @@ p {
 	padding: 1.25em;
 }
 
+p.cool{
+Background-color: brown;
+}
+
+<p class="Background-color: brown:"> this paragraph refers to two classes.</p>
 figure {
 	margin: 0;
 	padding: 0;
